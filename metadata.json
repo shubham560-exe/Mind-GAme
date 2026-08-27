@@ -1,0 +1,6 @@
+{
+  "name": "CogniCure - AI Neuro-Rehabilitation",
+  "description": "AI-Powered Adaptive Cognitive Gaming & Neuro-Rehabilitation Platform with Vernacular Telemetry, Clinical MMSE Mapping, Gaze Tracking & Visuospatial Path Analysis for SIH.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
